@@ -3,7 +3,7 @@
 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning more about  C#,C++,Databases,Data structures .</li>
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.instagram.com/hamzaouee/" rel="nofollow">Instagram - @hamzaouee</a> , <a href="https://www.linkedin.com/in/hamza-ouabiba-b95392203/" rel="nofollow">Linkedin - hamza ouabiba</a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me:  <a href="https://www.linkedin.com/in/hamza-ouabiba-b95392203/" rel="nofollow">Linkedin - hamza ouabiba</a></li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: He/His</li>
 </ul>
 <a href="https://www.linkedin.com/in/hamza-ouabiba-b95392203/" rel="nofollow"><img src="https://img.shields.io/badge/hamza-ouabiba-b95392203?style=for-the-badge&logo=linkedin&logoColor=white"></a>
