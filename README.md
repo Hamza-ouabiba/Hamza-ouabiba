@@ -1,6 +1,6 @@
 ## Hello, I'm Hamza Ouabiba! 👋
 
-I'm Hamza Ouabiba:
+I'm:
 
 - 🌍 From Morocco
 - 💻 A Software Engineering Student
